@@ -1,0 +1,894 @@
+[
+  {
+    "font": "/fonts/A_Haleem_Bolhu__Bold.otf",
+    "name": "A_Haleem_Bolhu__Bold"
+  },
+  {
+    "font": "/fonts/A_Haleem_KB.otf",
+    "name": "A_Haleem_KB"
+  },
+  {
+    "font": "/fonts/A_Haleem_Mathi_Bold.otf",
+    "name": "A_Haleem_Mathi_Bold"
+  },
+  {
+    "font": "/fonts/A_Haleem_Raaveri.otf",
+    "name": "A_Haleem_Raaveri"
+  },
+  {
+    "font": "/fonts/A_Haleem_Riveli.otf",
+    "name": "A_Haleem_Riveli"
+  },
+  {
+    "font": "/fonts/A_Haleem_SH_Bold_Italic.otf",
+    "name": "A_Haleem_SH_Bold_Italic"
+  },
+  {
+    "font": "/fonts/A_Haleem_Thangi_Bold.otf",
+    "name": "A_Haleem_Thangi_Bold"
+  },
+  {
+    "font": "/fonts/A_Haleem_Thiki_Bold.otf",
+    "name": "A_Haleem_Thiki_Bold"
+  },
+  {
+    "font": "/fonts/A_Haleem_Uivashaa.otf",
+    "name": "A_Haleem_Uivashaa"
+  },
+  {
+    "font": "/fonts/A_Haleem__Kirudhooni.otf",
+    "name": "A_Haleem__Kirudhooni"
+  },
+  {
+    "font": "/fonts/A_Haleem_faseyha.otf",
+    "name": "A_Haleem_faseyha"
+  },
+  {
+    "font": "/fonts/A_Ilham.TTF",
+    "name": "A_Ilham"
+  },
+  {
+    "font": "/fonts/A_Kaani.otf",
+    "name": "A_Kaani"
+  },
+  {
+    "font": "/fonts/A_Koagannu.TTF",
+    "name": "A_Koagannu"
+  },
+  {
+    "font": "/fonts/A_Lakudi.otf",
+    "name": "A_Lakudi"
+  },
+  {
+    "font": "/fonts/A_Lakudi_College.otf",
+    "name": "A_Lakudi_College"
+  },
+  {
+    "font": "/fonts/A_Midhili.otf",
+    "name": "A_Midhili"
+  },
+  {
+    "font": "/fonts/A_Uni.otf",
+    "name": "A_Uni"
+  },
+  {
+    "font": "/fonts/A_Waheed.otf",
+    "name": "A_Waheed"
+  },
+  {
+    "font": "/fonts/A_Waheed_College.otf",
+    "name": "A_Waheed_College"
+  },
+  {
+    "font": "/fonts/Athu_Casual.otf",
+    "name": "Athu_Casual"
+  },
+  {
+    "font": "/fonts/Avas_Thaana.otf",
+    "name": "Avas_Thaana"
+  },
+  {
+    "font": "/fonts/BODUKURU_Light.otf",
+    "name": "BODUKURU_Light"
+  },
+  {
+    "font": "/fonts/Bolhu-Black.woff2",
+    "name": "Bolhu-Black"
+  },
+  {
+    "font": "/fonts/Bolhu-Bold.woff2",
+    "name": "Bolhu-Bold"
+  },
+  {
+    "font": "/fonts/Bolhu-ExtraBold.woff2",
+    "name": "Bolhu-ExtraBold"
+  },
+  {
+    "font": "/fonts/Bolhu-ExtraLight.woff2",
+    "name": "Bolhu-ExtraLight"
+  },
+  {
+    "font": "/fonts/Bolhu-Light.woff2",
+    "name": "Bolhu-Light"
+  },
+  {
+    "font": "/fonts/Bolhu-Medium.woff2",
+    "name": "Bolhu-Medium"
+  },
+  {
+    "font": "/fonts/Bolhu-Regular.woff2",
+    "name": "Bolhu-Regular"
+  },
+  {
+    "font": "/fonts/Bolhu-SemiBold.woff2",
+    "name": "Bolhu-SemiBold"
+  },
+  {
+    "font": "/fonts/Bolhu-Thin.woff2",
+    "name": "Bolhu-Thin"
+  },
+  {
+    "font": "/fonts/BolhuGX.woff2",
+    "name": "BolhuGX"
+  },
+  {
+    "font": "/fonts/DAM_Hiyani.otf",
+    "name": "DAM_Hiyani"
+  },
+  {
+    "font": "/fonts/DAM_Kalhi.otf",
+    "name": "DAM_Kalhi"
+  },
+  {
+    "font": "/fonts/DAM_Kathivalhi.otf",
+    "name": "DAM_Kathivalhi"
+  },
+  {
+    "font": "/fonts/DAM_Madheeh.otf",
+    "name": "DAM_Madheeh"
+  },
+  {
+    "font": "/fonts/Dhivehi.ttf",
+    "name": "Dhivehi"
+  },
+  {
+    "font": "/fonts/Dhives.ttf",
+    "name": "Dhives"
+  },
+  {
+    "font": "/fonts/FaagathiDheli-Light.woff",
+    "name": "FaagathiDheli-Light"
+  },
+  {
+    "font": "/fonts/FaagathiDheli-Light.woff2",
+    "name": "FaagathiDheli-Light"
+  },
+  {
+    "font": "/fonts/FaagathiDheli-Regular.woff",
+    "name": "FaagathiDheli-Regular"
+  },
+  {
+    "font": "/fonts/FaagathiDheli-Regular.woff2",
+    "name": "FaagathiDheli-Regular"
+  },
+  {
+    "font": "/fonts/FaagathiNeon-Bold.woff",
+    "name": "FaagathiNeon-Bold"
+  },
+  {
+    "font": "/fonts/FaagathiNeon-Bold.woff2",
+    "name": "FaagathiNeon-Bold"
+  },
+  {
+    "font": "/fonts/FaagathiNeon-ExtraLight.woff",
+    "name": "FaagathiNeon-ExtraLight"
+  },
+  {
+    "font": "/fonts/FaagathiNeon-ExtraLight.woff2",
+    "name": "FaagathiNeon-ExtraLight"
+  },
+  {
+    "font": "/fonts/FaagathiNeon-Light.woff",
+    "name": "FaagathiNeon-Light"
+  },
+  {
+    "font": "/fonts/FaagathiNeon-Light.woff2",
+    "name": "FaagathiNeon-Light"
+  },
+  {
+    "font": "/fonts/FaagathiNeon-Regular.woff",
+    "name": "FaagathiNeon-Regular"
+  },
+  {
+    "font": "/fonts/FaagathiNeon-Regular.woff2",
+    "name": "FaagathiNeon-Regular"
+  },
+  {
+    "font": "/fonts/FaaruPunk-Bold.woff",
+    "name": "FaaruPunk-Bold"
+  },
+  {
+    "font": "/fonts/FaaruPunk-Bold.woff2",
+    "name": "FaaruPunk-Bold"
+  },
+  {
+    "font": "/fonts/FaaruPunk-Regular.woff",
+    "name": "FaaruPunk-Regular"
+  },
+  {
+    "font": "/fonts/FaaruPunk-Regular.woff2",
+    "name": "FaaruPunk-Regular"
+  },
+  {
+    "font": "/fonts/Faiy_Light.otf",
+    "name": "Faiy_Light"
+  },
+  {
+    "font": "/fonts/Fanara-Black.woff",
+    "name": "Fanara-Black"
+  },
+  {
+    "font": "/fonts/Fanara-Black.woff2",
+    "name": "Fanara-Black"
+  },
+  {
+    "font": "/fonts/Fanara-Bold.woff",
+    "name": "Fanara-Bold"
+  },
+  {
+    "font": "/fonts/Fanara-Bold.woff2",
+    "name": "Fanara-Bold"
+  },
+  {
+    "font": "/fonts/Fanara-Regular.woff",
+    "name": "Fanara-Regular"
+  },
+  {
+    "font": "/fonts/Fanara-Regular.woff2",
+    "name": "Fanara-Regular"
+  },
+  {
+    "font": "/fonts/Fanara-Thin.woff",
+    "name": "Fanara-Thin"
+  },
+  {
+    "font": "/fonts/Fanara-Thin.woff2",
+    "name": "Fanara-Thin"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-Black.woff",
+    "name": "FanaraGolhi-Black"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-Black.woff2",
+    "name": "FanaraGolhi-Black"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-Bold.woff",
+    "name": "FanaraGolhi-Bold"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-Bold.woff2",
+    "name": "FanaraGolhi-Bold"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-ExtraBold.woff",
+    "name": "FanaraGolhi-ExtraBold"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-ExtraBold.woff2",
+    "name": "FanaraGolhi-ExtraBold"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-ExtraLight.woff",
+    "name": "FanaraGolhi-ExtraLight"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-ExtraLight.woff2",
+    "name": "FanaraGolhi-ExtraLight"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-Light.woff",
+    "name": "FanaraGolhi-Light"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-Light.woff2",
+    "name": "FanaraGolhi-Light"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-Medium.woff",
+    "name": "FanaraGolhi-Medium"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-Medium.woff2",
+    "name": "FanaraGolhi-Medium"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-Regular.woff",
+    "name": "FanaraGolhi-Regular"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-Regular.woff2",
+    "name": "FanaraGolhi-Regular"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-SemiBold.woff",
+    "name": "FanaraGolhi-SemiBold"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-SemiBold.woff2",
+    "name": "FanaraGolhi-SemiBold"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-Thin.woff",
+    "name": "FanaraGolhi-Thin"
+  },
+  {
+    "font": "/fonts/FanaraGolhi-Thin.woff2",
+    "name": "FanaraGolhi-Thin"
+  },
+  {
+    "font": "/fonts/FanaraGolhiGX.woff",
+    "name": "FanaraGolhiGX"
+  },
+  {
+    "font": "/fonts/FanaraGolhiGX.woff2",
+    "name": "FanaraGolhiGX"
+  },
+  {
+    "font": "/fonts/Faruma.otf",
+    "name": "Faruma"
+  },
+  {
+    "font": "/fonts/Fiyuzu-Regular.woff",
+    "name": "Fiyuzu-Regular"
+  },
+  {
+    "font": "/fonts/Fiyuzu-Regular.woff2",
+    "name": "Fiyuzu-Regular"
+  },
+  {
+    "font": "/fonts/Gurafiku-Regular.woff",
+    "name": "Gurafiku-Regular"
+  },
+  {
+    "font": "/fonts/Gurafiku-Regular.woff2",
+    "name": "Gurafiku-Regular"
+  },
+  {
+    "font": "/fonts/Haluvidhaa-Regular.woff",
+    "name": "Haluvidhaa-Regular"
+  },
+  {
+    "font": "/fonts/Haluvidhaa-Regular.woff2",
+    "name": "Haluvidhaa-Regular"
+  },
+  {
+    "font": "/fonts/Hawwa-Regular.woff",
+    "name": "Hawwa-Regular"
+  },
+  {
+    "font": "/fonts/Hawwa-Regular.woff2",
+    "name": "Hawwa-Regular"
+  },
+  {
+    "font": "/fonts/Kanafala.ttf",
+    "name": "Kanafala"
+  },
+  {
+    "font": "/fonts/Kolhu-Black.woff",
+    "name": "Kolhu-Black"
+  },
+  {
+    "font": "/fonts/Kolhu-Black.woff2",
+    "name": "Kolhu-Black"
+  },
+  {
+    "font": "/fonts/Kolhu-Bold.woff",
+    "name": "Kolhu-Bold"
+  },
+  {
+    "font": "/fonts/Kolhu-Bold.woff2",
+    "name": "Kolhu-Bold"
+  },
+  {
+    "font": "/fonts/Kolhu-ExtraBold.woff",
+    "name": "Kolhu-ExtraBold"
+  },
+  {
+    "font": "/fonts/Kolhu-ExtraBold.woff2",
+    "name": "Kolhu-ExtraBold"
+  },
+  {
+    "font": "/fonts/Kolhu-ExtraLight.woff",
+    "name": "Kolhu-ExtraLight"
+  },
+  {
+    "font": "/fonts/Kolhu-ExtraLight.woff2",
+    "name": "Kolhu-ExtraLight"
+  },
+  {
+    "font": "/fonts/Kolhu-Light.woff",
+    "name": "Kolhu-Light"
+  },
+  {
+    "font": "/fonts/Kolhu-Light.woff2",
+    "name": "Kolhu-Light"
+  },
+  {
+    "font": "/fonts/Kolhu-Medium.woff",
+    "name": "Kolhu-Medium"
+  },
+  {
+    "font": "/fonts/Kolhu-Medium.woff2",
+    "name": "Kolhu-Medium"
+  },
+  {
+    "font": "/fonts/Kolhu-Regular.woff",
+    "name": "Kolhu-Regular"
+  },
+  {
+    "font": "/fonts/Kolhu-Regular.woff2",
+    "name": "Kolhu-Regular"
+  },
+  {
+    "font": "/fonts/Kolhu-SemiBold.woff",
+    "name": "Kolhu-SemiBold"
+  },
+  {
+    "font": "/fonts/Kolhu-SemiBold.woff2",
+    "name": "Kolhu-SemiBold"
+  },
+  {
+    "font": "/fonts/Kolhu-Thin.woff",
+    "name": "Kolhu-Thin"
+  },
+  {
+    "font": "/fonts/Kolhu-Thin.woff2",
+    "name": "Kolhu-Thin"
+  },
+  {
+    "font": "/fonts/KolhuGX.woff",
+    "name": "KolhuGX"
+  },
+  {
+    "font": "/fonts/KolhuGX.woff2",
+    "name": "KolhuGX"
+  },
+  {
+    "font": "/fonts/LCDThaana-Regular.woff",
+    "name": "LCDThaana-Regular"
+  },
+  {
+    "font": "/fonts/LCDThaana-Regular.woff2",
+    "name": "LCDThaana-Regular"
+  },
+  {
+    "font": "/fonts/MV%20Prathama%20Dva.ttf",
+    "name": "MV%20Prathama%20Dva"
+  },
+  {
+    "font": "/fonts/MV%20Prathama%20Ek.ttf",
+    "name": "MV%20Prathama%20Ek"
+  },
+  {
+    "font": "/fonts/MV%20Prathama%20Tin.ttf",
+    "name": "MV%20Prathama%20Tin"
+  },
+  {
+    "font": "/fonts/MVWaheed.otf",
+    "name": "MVWaheed"
+  },
+  {
+    "font": "/fonts/MV_Boli.otf",
+    "name": "MV_Boli"
+  },
+  {
+    "font": "/fonts/MV_Faseyha.otf",
+    "name": "MV_Faseyha"
+  },
+  {
+    "font": "/fonts/MV_Waheed.otf",
+    "name": "MV_Waheed"
+  },
+  {
+    "font": "/fonts/MVizyPro.woff",
+    "name": "MVizyPro"
+  },
+  {
+    "font": "/fonts/MVthiki-akuru.woff",
+    "name": "MVthiki-akuru"
+  },
+  {
+    "font": "/fonts/MasnooeeMono-Regular.woff",
+    "name": "MasnooeeMono-Regular"
+  },
+  {
+    "font": "/fonts/MasnooeeMono-Regular.woff2",
+    "name": "MasnooeeMono-Regular"
+  },
+  {
+    "font": "/fonts/MotaruDhigu-Regular.woff",
+    "name": "MotaruDhigu-Regular"
+  },
+  {
+    "font": "/fonts/MotaruDhigu-Regular.woff2",
+    "name": "MotaruDhigu-Regular"
+  },
+  {
+    "font": "/fonts/MotaruSquare-Regular.woff",
+    "name": "MotaruSquare-Regular"
+  },
+  {
+    "font": "/fonts/MotaruSquare-Regular.woff2",
+    "name": "MotaruSquare-Regular"
+  },
+  {
+    "font": "/fonts/Mv-Alram.woff",
+    "name": "Mv-Alram"
+  },
+  {
+    "font": "/fonts/Mv-Dheli-fihi.woff",
+    "name": "Mv-Dheli-fihi"
+  },
+  {
+    "font": "/fonts/Mv-Izyan-Extra-Light.woff",
+    "name": "Mv-Izyan-Extra-Light"
+  },
+  {
+    "font": "/fonts/Mv-Izyan-Thin.woff",
+    "name": "Mv-Izyan-Thin"
+  },
+  {
+    "font": "/fonts/Mv-IzyanNormal.woff",
+    "name": "Mv-IzyanNormal"
+  },
+  {
+    "font": "/fonts/Mv-IzyanThaana.woff",
+    "name": "Mv-IzyanThaana"
+  },
+  {
+    "font": "/fonts/Mv-Neviraheem.woff",
+    "name": "Mv-Neviraheem"
+  },
+  {
+    "font": "/fonts/Mv-fathimath.woff",
+    "name": "Mv-fathimath"
+  },
+  {
+    "font": "/fonts/Mv-lhohiAdobe.ttf",
+    "name": "Mv-lhohiAdobe"
+  },
+  {
+    "font": "/fonts/MvIzyan-boduakuru.woff",
+    "name": "MvIzyan-boduakuru"
+  },
+  {
+    "font": "/fonts/MvIzyanAthuliyun.woff",
+    "name": "MvIzyanAthuliyun"
+  },
+  {
+    "font": "/fonts/MvIzyanAthuliyunlight.woff",
+    "name": "MvIzyanAthuliyunlight"
+  },
+  {
+    "font": "/fonts/MvIzyanLiyun.woff",
+    "name": "MvIzyanLiyun"
+  },
+  {
+    "font": "/fonts/MvIzyanSuruhee.woff",
+    "name": "MvIzyanSuruhee"
+  },
+  {
+    "font": "/fonts/MvIzyanboduakuru3D-Bold.woff",
+    "name": "MvIzyanboduakuru3D-Bold"
+  },
+  {
+    "font": "/fonts/MvKarudhas.woff",
+    "name": "MvKarudhas"
+  },
+  {
+    "font": "/fonts/Mv_Amaan_XP.otf",
+    "name": "Mv_Amaan_XP"
+  },
+  {
+    "font": "/fonts/Mv_Eamaan_XP.otf",
+    "name": "Mv_Eamaan_XP"
+  },
+  {
+    "font": "/fonts/Mv_Elaaf_Lite.otf",
+    "name": "Mv_Elaaf_Lite"
+  },
+  {
+    "font": "/fonts/Mv_Elaaf_Normal.otf",
+    "name": "Mv_Elaaf_Normal"
+  },
+  {
+    "font": "/fonts/Mv_Galan_Normal.otf",
+    "name": "Mv_Galan_Normal"
+  },
+  {
+    "font": "/fonts/Mv_GroupX_Avas_Akuru.otf",
+    "name": "Mv_GroupX_Avas_Akuru"
+  },
+  {
+    "font": "/fonts/Mv_Iyyu_Formal.otf",
+    "name": "Mv_Iyyu_Formal"
+  },
+  {
+    "font": "/fonts/Mv_Iyyu_Nala.otf",
+    "name": "Mv_Iyyu_Nala"
+  },
+  {
+    "font": "/fonts/Mv_Iyyu_Normal.otf",
+    "name": "Mv_Iyyu_Normal"
+  },
+  {
+    "font": "/fonts/Mv_Lady_Luck.otf",
+    "name": "Mv_Lady_Luck"
+  },
+  {
+    "font": "/fonts/Mv_MAG_Round_Bold.otf",
+    "name": "Mv_MAG_Round_Bold"
+  },
+  {
+    "font": "/fonts/Mv_MAG_Round_HBold.otf",
+    "name": "Mv_MAG_Round_HBold"
+  },
+  {
+    "font": "/fonts/Mv_MAG_Round_XBold.otf",
+    "name": "Mv_MAG_Round_XBold"
+  },
+  {
+    "font": "/fonts/Mv_Sehga_Fubaru_Fancy.otf",
+    "name": "Mv_Sehga_Fubaru_Fancy"
+  },
+  {
+    "font": "/fonts/Mv_Sehga_Old.otf",
+    "name": "Mv_Sehga_Old"
+  },
+  {
+    "font": "/fonts/MvkarudhasOutline.woff",
+    "name": "MvkarudhasOutline"
+  },
+  {
+    "font": "/fonts/Nasr_Light.otf",
+    "name": "Nasr_Light"
+  },
+  {
+    "font": "/fonts/Samee_Avas_Thaana.ttf",
+    "name": "Samee_Avas_Thaana"
+  },
+  {
+    "font": "/fonts/SanguSuruhee-Regular.woff",
+    "name": "SanguSuruhee-Regular"
+  },
+  {
+    "font": "/fonts/SanguSuruhee-Regular.woff2",
+    "name": "SanguSuruhee-Regular"
+  },
+  {
+    "font": "/fonts/Theras-Black.woff",
+    "name": "Theras-Black"
+  },
+  {
+    "font": "/fonts/Theras-Black.woff2",
+    "name": "Theras-Black"
+  },
+  {
+    "font": "/fonts/Theras-Bold.woff",
+    "name": "Theras-Bold"
+  },
+  {
+    "font": "/fonts/Theras-Bold.woff2",
+    "name": "Theras-Bold"
+  },
+  {
+    "font": "/fonts/Theras-ExtraBold.woff",
+    "name": "Theras-ExtraBold"
+  },
+  {
+    "font": "/fonts/Theras-ExtraBold.woff2",
+    "name": "Theras-ExtraBold"
+  },
+  {
+    "font": "/fonts/Theras-ExtraLight.woff",
+    "name": "Theras-ExtraLight"
+  },
+  {
+    "font": "/fonts/Theras-ExtraLight.woff2",
+    "name": "Theras-ExtraLight"
+  },
+  {
+    "font": "/fonts/Theras-Light.woff",
+    "name": "Theras-Light"
+  },
+  {
+    "font": "/fonts/Theras-Light.woff2",
+    "name": "Theras-Light"
+  },
+  {
+    "font": "/fonts/Theras-Medium.woff",
+    "name": "Theras-Medium"
+  },
+  {
+    "font": "/fonts/Theras-Medium.woff2",
+    "name": "Theras-Medium"
+  },
+  {
+    "font": "/fonts/Theras-Regular.woff",
+    "name": "Theras-Regular"
+  },
+  {
+    "font": "/fonts/Theras-Regular.woff2",
+    "name": "Theras-Regular"
+  },
+  {
+    "font": "/fonts/Theras-SemiBold.woff",
+    "name": "Theras-SemiBold"
+  },
+  {
+    "font": "/fonts/Theras-SemiBold.woff2",
+    "name": "Theras-SemiBold"
+  },
+  {
+    "font": "/fonts/Theras-Thin.woff",
+    "name": "Theras-Thin"
+  },
+  {
+    "font": "/fonts/Theras-Thin.woff2",
+    "name": "Theras-Thin"
+  },
+  {
+    "font": "/fonts/TherasGX.woff",
+    "name": "TherasGX"
+  },
+  {
+    "font": "/fonts/TherasGX.woff2",
+    "name": "TherasGX"
+  },
+  {
+    "font": "/fonts/Viethaana-Bold.woff",
+    "name": "Viethaana-Bold"
+  },
+  {
+    "font": "/fonts/Viethaana-Bold.woff2",
+    "name": "Viethaana-Bold"
+  },
+  {
+    "font": "/fonts/Viethaana-Light.woff",
+    "name": "Viethaana-Light"
+  },
+  {
+    "font": "/fonts/Viethaana-Light.woff2",
+    "name": "Viethaana-Light"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-Black.woff",
+    "name": "ZaanaThedhu-Black"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-Black.woff2",
+    "name": "ZaanaThedhu-Black"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-Bold.woff",
+    "name": "ZaanaThedhu-Bold"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-Bold.woff2",
+    "name": "ZaanaThedhu-Bold"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-ExtraBold.woff",
+    "name": "ZaanaThedhu-ExtraBold"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-ExtraBold.woff2",
+    "name": "ZaanaThedhu-ExtraBold"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-ExtraLight.woff",
+    "name": "ZaanaThedhu-ExtraLight"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-ExtraLight.woff2",
+    "name": "ZaanaThedhu-ExtraLight"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-Light.woff",
+    "name": "ZaanaThedhu-Light"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-Light.woff2",
+    "name": "ZaanaThedhu-Light"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-Medium.woff",
+    "name": "ZaanaThedhu-Medium"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-Medium.woff2",
+    "name": "ZaanaThedhu-Medium"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-Regular.woff",
+    "name": "ZaanaThedhu-Regular"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-Regular.woff2",
+    "name": "ZaanaThedhu-Regular"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-SemiBold.woff",
+    "name": "ZaanaThedhu-SemiBold"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-SemiBold.woff2",
+    "name": "ZaanaThedhu-SemiBold"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-Thin.woff",
+    "name": "ZaanaThedhu-Thin"
+  },
+  {
+    "font": "/fonts/ZaanaThedhu-Thin.woff2",
+    "name": "ZaanaThedhu-Thin"
+  },
+  {
+    "font": "/fonts/ZaanaThedhuGX.woff",
+    "name": "ZaanaThedhuGX"
+  },
+  {
+    "font": "/fonts/ZaanaThedhuGX.woff2",
+    "name": "ZaanaThedhuGX"
+  },
+  {
+    "font": "/fonts/all_fonts.zip",
+    "name": "all_fonts"
+  },
+  {
+    "font": "/fonts/faseyha.otf",
+    "name": "faseyha"
+  },
+  {
+    "font": "/fonts/midhilibold.ttf",
+    "name": "midhilibold"
+  },
+  {
+    "font": "/fonts/mv-maryam.woff",
+    "name": "mv-maryam"
+  },
+  {
+    "font": "/fonts/mv_thakurufaanu-webfont.woff",
+    "name": "mv_thakurufaanu-webfont"
+  },
+  {
+    "font": "/fonts/mvedhuru.woff",
+    "name": "mvedhuru"
+  },
+  {
+    "font": "/fonts/mvgaalhohi.woff",
+    "name": "mvgaalhohi"
+  },
+  {
+    "font": "/fonts/mvizyan-Light.woff",
+    "name": "mvizyan-Light"
+  },
+  {
+    "font": "/fonts/mvizyaregular-webfont.woff",
+    "name": "mvizyaregular-webfont"
+  },
+  {
+    "font": "/fonts/mvlhohi_bold-webfont.woff",
+    "name": "mvlhohi_bold-webfont"
+  },
+  {
+    "font": "/fonts/mvtyper.ttf",
+    "name": "mvtyper"
+  },
+  {
+    "font": "/fonts/utheem.otf",
+    "name": "utheem"
+  }
+]
